@@ -1,0 +1,110 @@
+{
+    "5fedc155040fe": {
+        "username": "test2@163.com",
+        "password": "$2y$10$fKOZFw76MK63u2eVCQu4EecVV1.khZg4z5SN7nblp6ZMRgNMyuEdC",
+        "fullname": "test2",
+        "roles": [
+            "user"
+        ],
+        "address": "test2Address",
+        "SSN": "111111111",
+        "taken": 1,
+        "id": "5fedc155040fe"
+    },
+    "5fedc1eca8750": {
+        "username": "test1@163.com",
+        "password": "$2y$10$lTk7liAGSKkAfSAT\/Hw5HOaWC.wlDdVsMRPexxK3iwfLqtsaoIssO",
+        "fullname": "test1",
+        "roles": [
+            "user"
+        ],
+        "address": "test1Address",
+        "SSN": "123456789",
+        "taken": 1,
+        "id": "5fedc1eca8750"
+    },
+    "5fef35fceeb0c": {
+        "username": "tutu990329@gmail.com",
+        "password": "$2y$10$cMuygYNA4\/WYjxsMRPoErefEbNwSIclSzPW1GGCLKDblYtS6NRDPW",
+        "fullname": "Charlie",
+        "roles": [
+            "user"
+        ],
+        "address": "Admin",
+        "SSN": "123456789",
+        "taken": 0,
+        "id": "5fef35fceeb0c"
+    },
+    "5ff10d67d2407": {
+        "username": "nowthisisme@yahoo.com",
+        "password": "$2y$10$iNK3YEWiNxRJsMtyvSUrA.D7Mjv6zGl0MI0U9DzWv4RcKfCgYdqny",
+        "fullname": "nowthisisme",
+        "roles": [
+            "user"
+        ],
+        "address": "BP",
+        "SSN": "200120012",
+        "taken": 1,
+        "id": "5ff10d67d2407"
+    },
+    "5ff258761cf13": {
+        "username": "123@gmail.com",
+        "password": "$2y$10$.\/vksuvutTb5ZBE1ibGkW.H6zrt3j3ow19jVSd4P8ZuhcZzCIUdxq",
+        "fullname": "Fancy",
+        "roles": [
+            "user"
+        ],
+        "address": "Wall street",
+        "SSN": "123456789",
+        "taken": 0,
+        "id": "5ff258761cf13"
+    },
+    "5ff5590ecf05d": {
+        "username": "test3@163.com",
+        "password": "$2y$10$HZNYIJaR\/Ncz9EaBeqXh5OYMJdBUhpRdKIC4pKVzHLAEqLZsuGfcC",
+        "fullname": "test3",
+        "roles": [
+            "user"
+        ],
+        "address": "test3Address",
+        "SSN": "111111111",
+        "taken": 1,
+        "id": "5ff5590ecf05d"
+    },
+    "5ff62fde3c812": {
+        "username": "admin@nemkovid.hu",
+        "password": "$2y$10$L4ScS99mu0V.95HLg9YtHupka5nLCh\/VbW\/NeF\/qwPAqim403wb5G",
+        "fullname": "admin",
+        "roles": [
+            "admin"
+        ],
+        "address": "adminAddress",
+        "SSN": "000000000",
+        "taken": 0,
+        "id": "5ff62fde3c812"
+    },
+    "5ff6bfbacfe10": {
+        "username": "test4@163.com",
+        "password": "$2y$10$4XCxg9LNBJNxyVpuPIpbpegbkmOxD9TVyWj2PS2VtXXxd1.4wxdEW",
+        "fullname": "test4",
+        "roles": [
+            "user"
+        ],
+        "address": "test4Address",
+        "SSN": "999999999",
+        "taken": 1,
+        "id": "5ff6bfbacfe10"
+    },
+    "5ff6c18e5ff1a": {
+        "username": "1234@gmail.com",
+        "password": "$2y$10$tV0AygCZlv7n1pEL2U84nO3lKxU7kxJvbs04WSFbWHP\/9WQ6bbMe2",
+        "fullname": "Fancy",
+        "roles": [
+            "user"
+        ],
+        "address": "wall street",
+        "SSN": "123456789",
+        "taken": 0,
+        "id": "5ff6c18e5ff1a"
+    }
+}
